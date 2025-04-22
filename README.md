@@ -20,6 +20,8 @@
 ![Open Source](https://img.shields.io/badge/open--source-%E2%9C%A8-brightgreen)
 ![Arch Linux User](https://img.shields.io/badge/Arch_Linux-%231793d1?logo=arch-linux&logoColor=white)
 ![GTK Developer](https://img.shields.io/badge/GTK-Developer-green?logo=gtk)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@alexalexad1172)
+
 
 ---
 
