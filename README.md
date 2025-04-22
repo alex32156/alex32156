@@ -28,5 +28,5 @@
 ## 📫 Επικοινωνία
 
 - GitHub: [@alex32156](https://github.com/alex32156)
-- Weblate προφίλ: [hosted.weblate.org/user/ΤΟ_USERNAME_ΣΟΥ](https://hosted.weblate.org/user/alex_tade32)
+- Weblate προφίλ: [hosted.weblate.org/user/alex_tade32](https://hosted.weblate.org/user/alex_tade32)
 
