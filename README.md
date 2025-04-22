@@ -6,3 +6,5 @@
 🚀 Μαθαίνω Python και φτιάχνω εργαλείο διαχείρισης πακέτων για Arch με GTK
 
 📫 Πιάσε με στο GitHub ή ρίξε μια ματιά στα projects μου!
+
+🌍 Συνεισφέρω μεταφράσεις στο [Hosted Weblate](https://hosted.weblate.org/user/alex_tade32/) – 300+ strings στα ελληνικά
