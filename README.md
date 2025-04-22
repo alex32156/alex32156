@@ -1,8 +1,30 @@
-# 👋 Γεια σου! Είμαι ο Αλέξ
+# 👋 Γεια σου, είμαι ο Αλέξ
 
-💻 Φοιτητής στο Πανεπιστήμιο Δυτικής Αττικής – Τεχνικός Μηχανολόγος  
-🧠 Με ενδιαφέρει ο προγραμματισμός, το Linux και τα open source projects  
-🌍 Συνεισφέρω μεταφράσεις στο [Hosted Weblate](https://hosted.weblate.org/user/alex_tade32/) – 300+ strings στα ελληνικά
-🚀 Μαθαίνω Python και φτιάχνω εργαλείο διαχείρισης πακέτων για Arch με GTK
+🎓 Φοιτητής στο Τμήμα Τεχνικών Μηχανολόγων του Πανεπιστημίου Δυτικής Αττικής  
+💻 Ενδιαφέροντα: Linux, Python, GTK, Open Source  
+🌍 Ενεργός μεταφραστής στο Weblate με 300+ μεταφράσεις στα ελληνικά  
 
-📫 Πιάσε με στο GitHub ή ρίξε μια ματιά στα projects μου!
+---
+
+## 🛠️ Τι κάνω αυτόν τον καιρό
+
+- 📦 Ανάπτυξη εργαλείου διαχείρισης πακέτων για Arch Linux με Python και GTK
+- 🌐 Συνεισφορά μεταφράσεων σε κοινότητες του ελεύθερου λογισμικού μέσω του Weblate
+- 🐍 Μαθαίνω προγραμματισμό σε Python
+
+---
+
+## 🌟 Συνεισφορές
+
+[![Weblate](https://img.shields.io/badge/Weblate-Contributor-%230092D4?logo=weblate&logoColor=white)](https://hosted.weblate.org/user/alex_tade32/)
+![Open Source](https://img.shields.io/badge/open--source-%E2%9C%A8-brightgreen)
+![Arch Linux User](https://img.shields.io/badge/Arch_Linux-%231793d1?logo=arch-linux&logoColor=white)
+![GTK Developer](https://img.shields.io/badge/GTK-Developer-green?logo=gtk)
+
+---
+
+## 📫 Επικοινωνία
+
+- GitHub: [@alex32156](https://github.com/alex32156)
+- Weblate προφίλ: [hosted.weblate.org/user/ΤΟ_USERNAME_ΣΟΥ](https://hosted.weblate.org/user/alex_tade32)
+
