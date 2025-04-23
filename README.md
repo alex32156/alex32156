@@ -30,3 +30,6 @@
 - GitHub: [@alex32156](https://github.com/alex32156)
 - Weblate προφίλ: [hosted.weblate.org/user/alex_tade32](https://hosted.weblate.org/user/alex_tade32)
 
+- 
+![56f1e88e-7b8f-452a-aec4-9c5045c27e9c](https://github.com/user-attachments/assets/c972a20b-1790-4439-8a0c-4578e822b530)
+
